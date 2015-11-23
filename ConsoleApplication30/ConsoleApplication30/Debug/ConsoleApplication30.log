@@ -1,0 +1,11 @@
+﻿Build started 12.11.2015 г. 13:20:43 ч..
+     1>Project "C:\Users\Sashko\Documents\GitHub\uppraktikum\ConsoleApplication30\ConsoleApplication30\ConsoleApplication30.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication30.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication30.cpp
+         ConsoleApplication30.cpp
+     1>c:\users\sashko\documents\github\uppraktikum\consoleapplication30\consoleapplication30\consoleapplication30.cpp(26): error C2065: 'i' : undeclared identifier
+     1>Done Building Project "C:\Users\Sashko\Documents\GitHub\uppraktikum\ConsoleApplication30\ConsoleApplication30\ConsoleApplication30.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34
